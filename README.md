@@ -75,8 +75,66 @@ Algunas funcionalidades de la app no requieren de conectividad a internet.
 ![](ahomealerta.png)
 
 ## Interfaz Lista de materiales:
+![](listademateriales.png)
 
-![](ahomealerta.png)
+
+## Interfaz Puntos de ubicación:
+![](puntosdeubi.png)
+
+## Interfaz Información general:
+![](infogeneral.png)
+
+## Interfaz Notificacion ante desastre natural. Contacto rápido ante autoridades. Obtención de datos:
+![](456.png)
+
+
+# Cubrimos los problemas del reto
+
+## Desinformación
+Cubrimos la necesidad por medio de la diferente información que desplegamos en el mapa y en las listas.
+## Información al momento
+El ciudadano al momento de tener la aplicaci´pon puede disponer de todos los datos que se vayan a presentar cuando el quiera.
+
+## Datos para el gobierno
+Podemos saber donde se ha pedido ayuda y cuales son los sectores más vulnerables.
+## Herramienta de apoyo ante contingencia
+Toda la aplicación cumple la función de ser una herramienta de apoyo.
+
+
+
+# Retos por afrontar
+
+## Exportación de información a redes sociales
+
+## Notificación y control por Protección Civil
+
+## Glosario de términos y galerías
+
+## Más datos para estudios
+
+## Explicación más detallada en mapa
+
+
+
+# ¿Qué necesitamos?
+
+## Servidores
+Almacenamiento de la información, integración en app store y play store.
+
+## Operación
+Mantenimiento, actualizaciones, mejoras, etc.
+
+## Equipo
+Necesitamos de equipo para poder realizar el proyecto tanto en ios como Android.
+
+
+
+
+
+
+
+
+
 
 
 
